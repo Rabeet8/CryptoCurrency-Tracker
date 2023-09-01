@@ -6,6 +6,10 @@ It is cryptocurrency tracker where a user can have a track of prices, volume and
 To deploy this project run
 
 ```bash
+  npm install
+```
+
+```bash
   npm run start
 ```
 
